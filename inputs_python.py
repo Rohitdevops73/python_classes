@@ -1,0 +1,5 @@
+name = input ("enter your name :   ")
+age = input ("enter your age :   ")
+price = input ("enter the price :   ")
+list1 = float(input ("enter the list :   "))
+print("my name is :", name, "my age is :", age, "the price is :", price, "the list is :", list1)
